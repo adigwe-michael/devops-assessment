@@ -15,7 +15,7 @@ The solution emphasizes:
 
 ## ✅ BELOW ARE SOLUTIONS TO THE ASSESSMENT
 
-📐 Architectural Diagram
+## 📐 Architectural Diagram
 ![alt text](damolak.drawio.png)
 
 ## 🏗️ Architecture Overview
